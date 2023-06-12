@@ -172,19 +172,7 @@
         "code",
         "test"
       ]
-    },
-    {
-      "login": "xala3pa",
-      "name": "Álvaro Salazar",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/655613?v=4",
-      "profile": "http://twitter.com/xala3pa",
-      "contributions": [
-        "doc"
-      ]
     }
   ],
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true,
-  "contributorsPerLine": 7
+  "repoType": "github"
 }
